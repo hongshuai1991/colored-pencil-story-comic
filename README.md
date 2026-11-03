@@ -1,4 +1,4 @@
-# 小红书彩铅手绘故事漫画
+# 小红书彩铅漫画
 
 <a id="contents"></a>
 ## 目录
@@ -50,7 +50,7 @@ npx skills add hongshuai1991/colored-pencil-story-comic -g
 在已加载这个 skill 的聊天中，直接说明故事和本轮希望完成的范围：
 
 ```text
-用 $redbook-colored-pencil-story-comic 制作一个小红书彩铅手绘故事漫画。
+用 $redbook-colored-pencil-story-comic 制作一个小红书彩铅漫画。
 
 故事：我教妈妈发语音。她学会后，坐在我旁边给我发了一句：
 “下班早点回家，给你留着饭。”
@@ -242,7 +242,7 @@ npx skills add hongshuai1991/colored-pencil-story-comic -g
 <a id="collaboration"></a>
 ## 10. 与故事脚本配合
 
-「小红书故事漫画脚本」可以先整理逐页成稿；本 skill 可以接着完成角色设定、试图、连续配图和排版。
+「小红书漫画文字脚本」可以先整理逐页成稿；本 skill 可以接着完成角色设定、试图、连续配图和排版。
 
 ```text
 以下是已经确认的漫画脚本。
